@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of my Solution](images/screenshot.png)
+![Screenshot of my Solution](assets/images/screenshot.png)
 
 ### Links
 
